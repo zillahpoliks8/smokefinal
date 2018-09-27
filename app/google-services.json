@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1002162272743",
+    "firebase_url": "https://smokefinal-855bc.firebaseio.com",
+    "project_id": "smokefinal-855bc",
+    "storage_bucket": "smokefinal-855bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002162272743:android:1cf61b502ded0295",
+        "android_client_info": {
+          "package_name": "com.app.uic.smokefinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002162272743-etvchl3e5v4hctrdtff7al9gc1mgdooj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.uic.smokefinal",
+            "certificate_hash": "24c4a79bda39577ac918722ed02cb5c992c1cef7"
+          }
+        },
+        {
+          "client_id": "1002162272743-ct0pt16p0f5qtb6a579n3ogv728he93r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2yhK_Br_jOdLmYBBq3mUQjj8EjhQ6Erc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002162272743-ct0pt16p0f5qtb6a579n3ogv728he93r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

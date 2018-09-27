@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SmokeFinal</string>
+    <string name="title_activity_sensor_status">SensorStatus</string>
+    <string name="newlogocrowd" />
+    <string name="google_sign_in" />
+    <string name="string_signed_out" />
+    <string name="sign_out" />
+    <string name="disconnect" />
+    <string name="confirmation">Confirmation</string>
+    <string name="sensor_status">sensor status</string>
+    <string name="go_to_main">go to main</string>
+    <string name="smoke_status">Smoke Status</string>
+    <string name="list_of_available_devices">List of Available Devices:</string>
+    <string name="list_of_available_devices">List of Available Devices:</string>
+</resources>

@@ -6,6 +6,7 @@ public class SensorInformation {
     private String data;
     private String event;
     private String published_at;
+    private String location;
 
     public SensorInformation(){
 
@@ -34,6 +35,10 @@ public class SensorInformation {
     public void setData(String data) {
         this.data = data;
     }
+
+    public String getLocation(){return location;}
+
+    public void setLocation(String data){this.location = location;}
 
     public String getPublished_at() {
         return published_at;

@@ -10,6 +10,5 @@
     <string name="sensor_status">sensor status</string>
     <string name="go_to_main">go to main</string>
     <string name="smoke_status">Smoke Status</string>
-    <string name="list_of_available_devices">List of Available Devices:</string>
-    <!--<string name="list_of_available_devices">List of Available Devices:</string>-->
+    <string name="list_of_available_devices">list of available devices</string>
 </resources>

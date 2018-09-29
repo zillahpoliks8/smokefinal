@@ -50,7 +50,7 @@ public class SensorStatus extends AppCompatActivity {
 //        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
 //        setSupportActionBar(toolbar);
 
-        mListview = findViewById(R.id.List_view);
+        mListview = findViewById(R.id.ListView);
 
 
         mAuth = FirebaseAuth.getInstance();

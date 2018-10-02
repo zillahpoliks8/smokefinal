@@ -4,8 +4,6 @@
     package="com.app.uic.smokefinal">
 
     <uses-permission android:name="android.permission.INTERNET" />
-    <uses-sdk android:minSdkVersion="16" android:maxSdkVersion="28"
-        tools:ignore="GradleOverrides" />
 
     <application
         android:allowBackup="true"
@@ -22,8 +20,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".MainActivity" />
-        <activity android:name=".Confirmation" />
         <activity android:name=".mainMenu" />
+        <activity android:name=".Confirmation" />
         <activity android:name=".SensorStatus" />
     </application>
 

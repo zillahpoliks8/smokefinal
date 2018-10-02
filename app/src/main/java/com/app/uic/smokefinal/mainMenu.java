@@ -1,13 +1,12 @@
 package com.app.uic.smokefinal;
 
-import android.support.v7.app.AppCompatActivity;
+import android.content.Intent;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
-import android.content.Intent;
 
 import com.google.firebase.auth.FirebaseAuth;
-import com.google.firebase.auth.FirebaseUser;
 
 public class mainMenu extends AppCompatActivity {
 
@@ -35,6 +34,14 @@ public class mainMenu extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+        Btn_confirmation.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(mainMenu.this, Confirmation.class);
+                startActivity(intent);
+            }
+        });
+
 
 
     }
